@@ -2,6 +2,7 @@
 @import url(../root/root.css);
 
 @import url(../blocks/page/page.css);
+@import url(../blocks/centered-section/centered-section.css);
 @import url(../blocks/logo/logo.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
@@ -14,4 +15,15 @@
 @import url(../blocks/furniture/__subtitle/_accent/furniture__subtitle_accent.css);
 @import url(../blocks/furniture/__title/furniture__title.css);
 @import url(../blocks/button/button.css);
-
+@import url(../blocks/title-box/title-box.css);
+@import url(../blocks/title-box/__title/title-box__title.css);
+@import url(../blocks/title-box/__subtitle/title-box__subtitle.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/about/__plates/about__plates.css);
+@import url(../blocks/about/__decor/about__decor.css);
+@import url(../blocks/about/__plates-img/about__plates-img.css);
+@import url(../blocks/text/text.css);
+@import url(../blocks/text/__accent/text__accent.css);
+@import url(../blocks/subtext/subtext.css);
+@import url(../blocks/about/__spoons/about__spoons.css);
+@import url(../blocks/about/__spoons-img/about__spoons-img.css);

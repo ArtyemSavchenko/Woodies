@@ -1,0 +1,13 @@
+.about__plates {
+  margin-top: 40px;
+  min-height: 388px;
+  width: 100%;
+  position: relative;
+  z-index: 0;
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-content: end;
+  grid-template-columns: minmax(0, 448px);
+  gap: 16px;
+}

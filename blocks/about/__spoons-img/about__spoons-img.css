@@ -1,0 +1,8 @@
+.about__spoons-img {
+  width: 287px;
+  height: 384px;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}

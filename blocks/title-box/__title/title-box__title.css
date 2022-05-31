@@ -1,0 +1,9 @@
+.title-box__title {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 98px;
+  text-transform: uppercase;
+  color: rgba(34, 34, 34, 0.1);
+}

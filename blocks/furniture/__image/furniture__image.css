@@ -3,7 +3,6 @@
   width: 568px;
   height: 577px;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  bottom: 58px;
   z-index: -1;
 }

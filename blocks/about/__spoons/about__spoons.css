@@ -1,0 +1,10 @@
+.about__spoons {
+  margin-top: 40px;
+  min-height: 384px;
+  position: relative;
+  display: grid;
+  gap: 16px;
+  align-items: center;
+  align-content: center;
+  grid-template-columns: minmax(0, 655px);
+}

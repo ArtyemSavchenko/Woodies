@@ -1,0 +1,11 @@
+.about__decor {
+  width: 278px;
+  height: 388px;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: #f7dea6;
+  border-radius: 0 120px;
+  z-index: -1;
+}
