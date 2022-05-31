@@ -37,3 +37,13 @@
 @import url(../blocks/card/__img/_pic/card__img_pic_area.css);
 @import url(../blocks/card/__img/_pic/card__img_pic_production.css);
 @import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/categories/__list/categories__list.css);
+@import url(../blocks/categorie/categorie.css);
+@import url(../blocks/categorie/__img/categorie__img.css);
+@import url(../blocks/categorie/__title/categorie__title.css);
+@import url(../blocks/categorie/__button/categoris__button.css);
+@import url(../blocks/categorie/__img/_pic/categorie__img_pic_chair.css);
+@import url(../blocks/categorie/__img/_pic/categorie__img_pic_desk.css);
+@import url(../blocks/categorie/__img/_pic/categorie__img_pic_electronics.css);
+@import url(../blocks/categorie/__img/_pic/categorie__img_pic_kitchenware.css);
+@import url(../blocks/categorie/__img/_pic/categorie__img_pic_shelf.css);
