@@ -27,3 +27,13 @@
 @import url(../blocks/subtext/subtext.css);
 @import url(../blocks/about/__spoons/about__spoons.css);
 @import url(../blocks/about/__spoons-img/about__spoons-img.css);
+@import url(../blocks/works/__button/works__button.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/works/__cards/works__cards.css);
+@import url(../blocks/card/__number/card__number.css);
+@import url(../blocks/card/__img/card__img.css);
+@import url(../blocks/card/__img/_pic/card__img_pic_design.css);
+@import url(../blocks/card/__img/_pic/card__img_pic_budget.css);
+@import url(../blocks/card/__img/_pic/card__img_pic_area.css);
+@import url(../blocks/card/__img/_pic/card__img_pic_production.css);
+@import url(../blocks/card/__text/card__text.css);

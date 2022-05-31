@@ -1,0 +1,7 @@
+.works__cards {
+  list-style: none;
+  display: grid;
+  padding: 0;
+  margin: 64px 0 0;
+  grid-template-columns: repeat(4, minmax(0, 238px));
+}
