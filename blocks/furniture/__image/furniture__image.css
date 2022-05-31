@@ -1,0 +1,9 @@
+.furniture__image {
+  position: absolute;
+  width: 568px;
+  height: 577px;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: -1;
+}

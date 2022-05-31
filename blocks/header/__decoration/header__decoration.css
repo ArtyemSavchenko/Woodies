@@ -1,0 +1,10 @@
+.header__decoration {
+  width: 370px;
+  height: 800px;
+  background-color: #f9bdbd;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: -2;
+  border-radius: 0 0 0 120px;
+}

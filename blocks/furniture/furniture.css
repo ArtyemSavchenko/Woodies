@@ -1,0 +1,7 @@
+.furniture {
+  padding-top: 52px;
+  position: relative;
+  min-height: 577px;
+  box-sizing: border-box;
+  z-index: 0;
+}
