@@ -1,0 +1,9 @@
+.footer {
+  margin-top: 120px;
+  min-height: 455px;
+  box-sizing: border-box;
+  background:
+    url(../../images/footer_left.jpg) no-repeat bottom left / 644px 455px,
+    url(../../images/footer.jpg) no-repeat bottom right / 508px 455px;
+  padding: 208px 0 24px;
+}

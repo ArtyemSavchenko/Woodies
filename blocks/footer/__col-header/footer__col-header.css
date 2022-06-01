@@ -1,0 +1,9 @@
+.footer__col-header {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 33px;
+  color: #333;
+  transform: translateY(4px);
+}

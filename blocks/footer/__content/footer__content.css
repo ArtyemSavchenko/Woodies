@@ -1,0 +1,8 @@
+.footer__content {
+  display: inline-flex;
+  align-items: flex-start;
+  column-gap: 52px;
+  margin: 0 auto 45px 108px;
+  border-top: 1px solid #C4C4C4;
+  padding-top: 24px;
+}

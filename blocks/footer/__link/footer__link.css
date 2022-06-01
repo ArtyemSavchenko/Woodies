@@ -1,0 +1,8 @@
+.footer__link {
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  color: #daa520;
+  font-weight: 800;
+}
